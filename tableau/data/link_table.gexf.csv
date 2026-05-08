@@ -1,0 +1,376 @@
+Source,Target,Type,Id,Label,Weight
+"Amherdt, François-Xavier",arbitre,Directed,0,,38
+"Amherdt, François-Xavier",dieu,Directed,1,,15
+"Amherdt, François-Xavier",hockey,Directed,2,,22
+"Amherdt, François-Xavier",jeu,Directed,3,,18
+"Amherdt, François-Xavier",seigneur,Directed,4,,15
+"Balbontin, Cristóbal",chair,Directed,5,,70
+"Balbontin, Cristóbal",honneth,Directed,6,,73
+"Balbontin, Cristóbal",monde,Directed,7,,107
+"Balbontin, Cristóbal",reconnaissance,Directed,8,,109
+"Balbontin, Cristóbal",rosenzweig,Directed,9,,65
+"Barreau, Jean-Marc",deuil,Directed,10,,140
+"Barreau, Jean-Marc",relation,Directed,11,,55
+"Barreau, Jean-Marc",ricoeur,Directed,12,,56
+"Barreau, Jean-Marc",sollicitude,Directed,13,,79
+"Barreau, Jean-Marc",visage,Directed,14,,63
+"Bergeron, Patrice",chauvet,Directed,15,,87
+"Bergeron, Patrice",dieu,Directed,16,,91
+"Bergeron, Patrice",sacrement,Directed,17,,55
+"Bergeron, Patrice",symbolique,Directed,18,,102
+"Bergeron, Patrice",ville,Directed,19,,55
+"Blondin, Marie-Michèle",coeur,Directed,20,,153
+"Blondin, Marie-Michèle",corps,Directed,21,,34
+"Blondin, Marie-Michèle",schopenhauer,Directed,22,,78
+"Blondin, Marie-Michèle",tête,Directed,23,,40
+"Blondin, Marie-Michèle",volonté,Directed,24,,121
+"Boublil, Élodie",coeur,Directed,25,,36
+"Boublil, Élodie",intériorité,Directed,26,,35
+"Boublil, Élodie",monde,Directed,27,,36
+"Boublil, Élodie",strasser,Directed,28,,66
+"Boublil, Élodie",éthique,Directed,29,,44
+"Bourbon, Marion",jugement,Directed,30,,22
+"Bourbon, Marion",psychique,Directed,31,,19
+"Bourbon, Marion",savoir,Directed,32,,20
+"Bourbon, Marion",stoïcien,Directed,33,,22
+"Bourbon, Marion",thérapie,Directed,34,,18
+"Camilleri, Sylvain",absolu,Directed,35,,87
+"Camilleri, Sylvain",dieu,Directed,36,,34
+"Camilleri, Sylvain",expérience,Directed,37,,35
+"Camilleri, Sylvain",reinach,Directed,38,,59
+"Camilleri, Sylvain",vécu,Directed,39,,22
+"Cantin-Brault, Antoine",dieu,Directed,40,,47
+"Cantin-Brault, Antoine",enteignis,Directed,41,,48
+"Cantin-Brault, Antoine",heidegger,Directed,42,,66
+"Cantin-Brault, Antoine",humain,Directed,43,,85
+"Cantin-Brault, Antoine",janus,Directed,44,,48
+"Cardita, Ângelo",dieu,Directed,45,,59
+"Cardita, Ângelo",pandémie,Directed,46,,59
+"Cardita, Ângelo",rite,Directed,47,,93
+"Cardita, Ângelo",rituel,Directed,48,,77
+"Cardita, Ângelo",temps,Directed,49,,52
+"Castro Orellana, Rodrigo",agamben,Directed,50,,63
+"Castro Orellana, Rodrigo",foucault,Directed,51,,60
+"Castro Orellana, Rodrigo",politique,Directed,52,,86
+"Castro Orellana, Rodrigo",pouvoir,Directed,53,,77
+"Castro Orellana, Rodrigo",schmitt,Directed,54,,39
+"Certain, Théo",adultère,Directed,55,,45
+"Certain, Théo",dieu,Directed,56,,47
+"Certain, Théo",femme,Directed,57,,43
+"Certain, Théo",hobbe,Directed,58,,42
+"Certain, Théo",loi,Directed,59,,159
+"Chapleau, Anne-Marie",christ,Directed,60,,53
+"Chapleau, Anne-Marie",objet,Directed,61,,44
+"Chapleau, Anne-Marie",paul,Directed,62,,87
+"Chapleau, Anne-Marie",texte,Directed,63,,62
+"Chapleau, Anne-Marie",voix,Directed,64,,30
+"Chevarie-Cossette, Simon Pierre",blâmable,Directed,65,,43
+"Chevarie-Cossette, Simon Pierre",devoir,Directed,66,,101
+"Chevarie-Cossette, Simon Pierre",mal,Directed,67,,46
+"Chevarie-Cossette, Simon Pierre",responsabilité,Directed,68,,64
+"Chevarie-Cossette, Simon Pierre",responsable,Directed,69,,60
+"Colombo, Agustín",bataille,Directed,70,,54
+"Colombo, Agustín",expérience,Directed,71,,118
+"Colombo, Agustín",foucault,Directed,72,,83
+"Colombo, Agustín",liberté,Directed,73,,32
+"Colombo, Agustín",spiritualité,Directed,74,,66
+"Cooreman-Guittin, Talitha",boiteux,Directed,75,,34
+"Cooreman-Guittin, Talitha",dieu,Directed,76,,26
+"Cooreman-Guittin, Talitha",femme,Directed,77,,25
+"Cooreman-Guittin, Talitha",guérison,Directed,78,,20
+"Cooreman-Guittin, Talitha",handicap,Directed,79,,65
+"Couture, André",esprit,Directed,80,,23
+"Couture, André",falloir,Directed,81,,24
+"Couture, André",intelligence,Directed,82,,37
+"Couture, André",sage,Directed,83,,33
+"Couture, André",sagesse,Directed,84,,104
+"Dalissier, Michel",histoire,Directed,85,,91
+"Dalissier, Michel",littérature,Directed,86,,157
+"Dalissier, Michel",maturité,Directed,87,,115
+"Dalissier, Michel",sartre,Directed,88,,120
+"Dalissier, Michel",sens,Directed,89,,94
+"Darsigny-Trépanier, Laurence",femme,Directed,90,,120
+"Darsigny-Trépanier, Laurence",homme,Directed,91,,88
+"Darsigny-Trépanier, Laurence",jeune,Directed,92,,57
+"Darsigny-Trépanier, Laurence",séduction,Directed,93,,44
+"Darsigny-Trépanier, Laurence",verbe,Directed,94,,36
+"Delcomminette, Sylvain",action,Directed,95,,30
+"Delcomminette, Sylvain",cas,Directed,96,,28
+"Delcomminette, Sylvain",homme,Directed,97,,28
+"Delcomminette, Sylvain",loi,Directed,98,,166
+"Delcomminette, Sylvain",maxime,Directed,99,,28
+"Demarle-Casadebaig, Monique",blanc,Directed,100,,108
+"Demarle-Casadebaig, Monique",cheval,Directed,101,,150
+"Demarle-Casadebaig, Monique",gongsun,Directed,102,,45
+"Demarle-Casadebaig, Monique",long,Directed,103,,40
+"Demarle-Casadebaig, Monique",nom,Directed,104,,35
+"Denis, Diane",bouddhique,Directed,105,,23
+"Denis, Diane",expérience,Directed,106,,21
+"Denis, Diane",monde,Directed,107,,26
+"Denis, Diane",rochon,Directed,108,,39
+"Denis, Diane",vivant,Directed,109,,25
+"Desjardins, Pierre-Luc",acte,Directed,110,,43
+"Desjardins, Pierre-Luc",connaissance,Directed,111,,97
+"Desjardins, Pierre-Luc",foi,Directed,112,,82
+"Desjardins, Pierre-Luc",objet,Directed,113,,48
+"Desjardins, Pierre-Luc",science,Directed,114,,87
+"Devette, Pascale",amour,Directed,115,,55
+"Devette, Pascale",antigone,Directed,116,,114
+"Devette, Pascale",créon,Directed,117,,45
+"Devette, Pascale",nussbaum,Directed,118,,44
+"Devette, Pascale",weil,Directed,119,,51
+"Devinant, Julien",diagnostic,Directed,120,,31
+"Devinant, Julien",galien,Directed,121,,30
+"Devinant, Julien",malade,Directed,122,,17
+"Devinant, Julien",médecin,Directed,123,,32
+"Devinant, Julien",patient,Directed,124,,37
+"Dimitrova, Diana",dévot,Directed,125,,27
+"Dimitrova, Diana",gourou,Directed,126,,60
+"Dimitrova, Diana",radhasoami,Directed,127,,48
+"Dimitrova, Diana",satsaṅg,Directed,128,,23
+"Dimitrova, Diana",tradition,Directed,129,,36
+"Doane, Sébastien",agencement,Directed,130,,24
+"Doane, Sébastien",animal,Directed,131,,33
+"Doane, Sébastien",humain,Directed,132,,81
+"Doane, Sébastien",pommier,Directed,133,,28
+"Doane, Sébastien",visage,Directed,134,,64
+"Dumas, Marc",devenir,Directed,135,,21
+"Dumas, Marc",maladie,Directed,136,,26
+"Dumas, Marc",salut,Directed,137,,33
+"Dumas, Marc",santé,Directed,138,,60
+"Dumas, Marc",sens,Directed,139,,24
+"Elia, Marie-Thérèse",dieu,Directed,140,,81
+"Elia, Marie-Thérèse",fils,Directed,141,,52
+"Elia, Marie-Thérèse",jacques,Directed,142,,80
+"Elia, Marie-Thérèse",marie,Directed,143,,103
+"Elia, Marie-Thérèse",porte,Directed,144,,42
+"Falque, Emmanuel",corps,Directed,145,,85
+"Falque, Emmanuel",dieu,Directed,146,,85
+"Falque, Emmanuel",homme,Directed,147,,69
+"Falque, Emmanuel",mort,Directed,148,,62
+"Falque, Emmanuel",nietzsche,Directed,149,,66
+"Fiasse, Gaëlle",claverie,Directed,150,,25
+"Fiasse, Gaëlle",conviction,Directed,151,,19
+"Fiasse, Gaëlle",dialogue,Directed,152,,73
+"Fiasse, Gaëlle",différence,Directed,153,,37
+"Fiasse, Gaëlle",pierre,Directed,154,,25
+"Frigo, Alberto",besoin,Directed,155,,94
+"Frigo, Alberto",condillac,Directed,156,,53
+"Frigo, Alberto",homme,Directed,157,,46
+"Frigo, Alberto",loi,Directed,158,,62
+"Frigo, Alberto",obligation,Directed,159,,48
+"Ghiglione, Anna",esprit,Directed,160,,19
+"Ghiglione, Anna",figure,Directed,161,,12
+"Ghiglione, Anna",hypotypose,Directed,162,,27
+"Ghiglione, Anna",mozi,Directed,163,,22
+"Ghiglione, Anna",rhétorique,Directed,164,,14
+"Giovacchini, Julie",cas,Directed,165,,34
+"Giovacchini, Julie",clinique,Directed,166,,41
+"Giovacchini, Julie",médical,Directed,167,,35
+"Giovacchini, Julie",écriture,Directed,168,,36
+"Giovacchini, Julie",épid,Directed,169,,41
+"Goldstein, Pierre",action,Directed,170,,129
+"Goldstein, Pierre",agir,Directed,171,,97
+"Goldstein, Pierre",devoir,Directed,172,,77
+"Goldstein, Pierre",moral,Directed,173,,85
+"Goldstein, Pierre",vertu,Directed,174,,90
+"Gonçalves Lind, Andreas",coeur,Directed,175,,34
+"Gonçalves Lind, Andreas",dieu,Directed,176,,70
+"Gonçalves Lind, Andreas",henry,Directed,177,,92
+"Gonçalves Lind, Andreas",pascal,Directed,178,,83
+"Gonçalves Lind, Andreas",vie,Directed,179,,87
+"Grau, Alain",fils,Directed,180,,78
+"Grau, Alain",homme,Directed,181,,60
+"Grau, Alain",hypostase,Directed,182,,69
+"Grau, Alain",ousia,Directed,183,,60
+"Grau, Alain",père,Directed,184,,64
+"Gripon, Christophe",dieu,Directed,185,,111
+"Gripon, Christophe",jung,Directed,186,,157
+"Gripon, Christophe",jungien,Directed,187,,112
+"Gripon, Christophe",symbole,Directed,188,,141
+"Gripon, Christophe",tillich,Directed,189,,166
+"Guibla, Charles Joseph",charismatique,Directed,190,,37
+"Guibla, Charles Joseph",pentecôtiste,Directed,191,,40
+"Guibla, Charles Joseph",pratique,Directed,192,,40
+"Guibla, Charles Joseph",prieur,Directed,193,,70
+"Guibla, Charles Joseph",prière,Directed,194,,53
+"Gómez Algarra, César",dieu,Directed,195,,201
+"Gómez Algarra, César",divin,Directed,196,,38
+"Gómez Algarra, César",essence,Directed,197,,44
+"Gómez Algarra, César",heidegger,Directed,198,,58
+"Gómez Algarra, César",humain,Directed,199,,90
+"Julien, Jacques",celan,Directed,200,,44
+"Julien, Jacques",poème,Directed,201,,45
+"Julien, Jacques",poète,Directed,202,,21
+"Julien, Jacques",poésie,Directed,203,,35
+"Julien, Jacques",prière,Directed,204,,35
+"Kabera, Alexandre",africain,Directed,205,,32
+"Kabera, Alexandre",communauté,Directed,206,,47
+"Kabera, Alexandre",concept,Directed,207,,33
+"Kabera, Alexandre",jésus,Directed,208,,55
+"Kabera, Alexandre",ubuntu,Directed,209,,90
+"Lafleur, Claude",chose,Directed,210,,213
+"Lafleur, Claude",intellection,Directed,211,,149
+"Lafleur, Claude",proposition,Directed,212,,181
+"Lafleur, Claude",réalité,Directed,213,,333
+"Lafleur, Claude",âm,Directed,214,,163
+"Lainé, Mathieu L.",allemand,Directed,215,,75
+"Lainé, Mathieu L.",capital,Directed,216,,106
+"Lainé, Mathieu L.",classe,Directed,217,,53
+"Lainé, Mathieu L.",livre,Directed,218,,57
+"Lainé, Mathieu L.",mar,Directed,219,,255
+"Laurand, Valéry",agir,Directed,220,,22
+"Laurand, Valéry",cas,Directed,221,,34
+"Laurand, Valéry",tension,Directed,222,,25
+"Laurand, Valéry",âm,Directed,223,,31
+"Laurand, Valéry",épictèt,Directed,224,,25
+"Lauwaert, Françoise",ordre,Directed,225,,24
+"Lauwaert, Françoise",rite,Directed,226,,53
+"Lauwaert, Françoise",rituel,Directed,227,,48
+"Lauwaert, Françoise",sens,Directed,228,,20
+"Lauwaert, Françoise",système,Directed,229,,18
+"Lavoie, Jean-Jacques",livre,Directed,230,,66
+"Lavoie, Jean-Jacques",sens,Directed,231,,84
+"Lavoie, Jean-Jacques",texte,Directed,232,,66
+"Lavoie, Jean-Jacques",traduction,Directed,233,,96
+"Lavoie, Jean-Jacques",verbe,Directed,234,,125
+"Lazrak, Ostiane",ascèse,Directed,235,,43
+"Lazrak, Ostiane",cassien,Directed,236,,54
+"Lazrak, Ostiane",dieu,Directed,237,,43
+"Lazrak, Ostiane",foucault,Directed,238,,78
+"Lazrak, Ostiane",obéissance,Directed,239,,45
+"Le Blay, Frédéric",clinique,Directed,240,,20
+"Le Blay, Frédéric",grand,Directed,241,,15
+"Le Blay, Frédéric",laennec,Directed,242,,29
+"Le Blay, Frédéric",médecine,Directed,243,,24
+"Le Blay, Frédéric",médical,Directed,244,,15
+"Legrand, Geoffrey",crise,Directed,245,,28
+"Legrand, Geoffrey",monde,Directed,246,,20
+"Legrand, Geoffrey",nature,Directed,247,,43
+"Legrand, Geoffrey",salut,Directed,248,,43
+"Legrand, Geoffrey",tillich,Directed,249,,37
+"Mathieu, Pierre",dieu,Directed,250,,56
+"Mathieu, Pierre",désir,Directed,251,,122
+"Mathieu, Pierre",girard,Directed,252,,41
+"Mathieu, Pierre",spirituel,Directed,253,,37
+"Mathieu, Pierre",vie,Directed,254,,29
+"Mathot, Benoit",décoïncidence,Directed,255,,32
+"Mathot, Benoit",patient,Directed,256,,31
+"Mathot, Benoit",santé,Directed,257,,43
+"Mathot, Benoit",soin,Directed,258,,23
+"Mathot, Benoit",vie,Directed,259,,25
+"Maurais, Jean",expression,Directed,260,,22
+"Maurais, Jean",grec,Directed,261,,26
+"Maurais, Jean",hébreu,Directed,262,,22
+"Maurais, Jean",préposition,Directed,263,,23
+"Maurais, Jean",πρόσωπον,Directed,264,,32
+"Meessen, Yves",corps,Directed,265,,25
+"Meessen, Yves",dieu,Directed,266,,54
+"Meessen, Yves",eckhart,Directed,267,,22
+"Meessen, Yves",mystique,Directed,268,,38
+"Meessen, Yves",théologie,Directed,269,,17
+"Monteils-Laeng, Laetitia",circonstance,Directed,270,,21
+"Monteils-Laeng, Laetitia",devoir,Directed,271,,77
+"Monteils-Laeng, Laetitia",parent,Directed,272,,38
+"Monteils-Laeng, Laetitia",patrie,Directed,273,,17
+"Monteils-Laeng, Laetitia",père,Directed,274,,37
+"Ndong, Sangoul",bèze,Directed,275,,44
+"Ndong, Sangoul",discours,Directed,276,,18
+"Ndong, Sangoul",ronsard,Directed,277,,28
+"Ndong, Sangoul",silence,Directed,278,,19
+"Ndong, Sangoul",temps,Directed,279,,17
+"Niane, Alphonse D.",dieu,Directed,280,,117
+"Niane, Alphonse D.",fils,Directed,281,,48
+"Niane, Alphonse D.",grégoire,Directed,282,,35
+"Niane, Alphonse D.",homme,Directed,283,,132
+"Niane, Alphonse D.",nature,Directed,284,,38
+"Panaccio, Claude",chose,Directed,285,,64
+"Panaccio, Claude",ockham,Directed,286,,56
+"Panaccio, Claude",proposition,Directed,287,,32
+"Panaccio, Claude",terme,Directed,288,,52
+"Panaccio, Claude",vérité,Directed,289,,38
+"Perron, Louis",existant,Directed,290,,66
+"Perron, Louis",fragilité,Directed,291,,76
+"Perron, Louis",ontologique,Directed,292,,66
+"Perron, Louis",propre,Directed,293,,71
+"Perron, Louis",science,Directed,294,,90
+"Richard, Jean",cosmique,Directed,295,,29
+"Richard, Jean",guérison,Directed,296,,47
+"Richard, Jean",humain,Directed,297,,28
+"Richard, Jean",salut,Directed,298,,79
+"Richard, Jean",tillich,Directed,299,,53
+"Roberge, Michel",discours,Directed,300,,68
+"Roberge, Michel",eau,Directed,301,,72
+"Roberge, Michel",esprit,Directed,302,,101
+"Roberge, Michel",jésus,Directed,303,,131
+"Roberge, Michel",lumière,Directed,304,,79
+"Rocha, Andre",clauberg,Directed,305,,57
+"Rocha, Andre",idée,Directed,306,,59
+"Rocha, Andre",logique,Directed,307,,116
+"Rocha, Andre",sens,Directed,308,,48
+"Rocha, Andre",vérité,Directed,309,,48
+"Roulx, Dominic",adorno,Directed,310,,54
+"Roulx, Dominic",dialectique,Directed,311,,60
+"Roulx, Dominic",médiation,Directed,312,,42
+"Roulx, Dominic",nature,Directed,313,,150
+"Roulx, Dominic",raison,Directed,314,,83
+"Roussel, Jean-François",beauté,Directed,315,,42
+"Roussel, Jean-François",cranio,Directed,316,,44
+"Roussel, Jean-François",différence,Directed,317,,53
+"Roussel, Jean-François",facial,Directed,318,,44
+"Roussel, Jean-François",handicap,Directed,319,,92
+"Schüßler, Werner",frankl,Directed,320,,44
+"Schüßler, Werner",homme,Directed,321,,49
+"Schüßler, Werner",humain,Directed,322,,47
+"Schüßler, Werner",sens,Directed,323,,42
+"Schüßler, Werner",vie,Directed,324,,45
+"Senellart, Michel",foucault,Directed,325,,19
+"Senellart, Michel",gouvernement,Directed,326,,27
+"Senellart, Michel",grégoire,Directed,327,,18
+"Senellart, Michel",oikonomier,Directed,328,,24
+"Senellart, Michel",âme,Directed,329,,33
+"Serra Pérez, Manuel Alejandro",essendi,Directed,330,,102
+"Serra Pérez, Manuel Alejandro",forme,Directed,331,,81
+"Serra Pérez, Manuel Alejandro",perfection,Directed,332,,69
+"Serra Pérez, Manuel Alejandro",thomas,Directed,333,,53
+"Serra Pérez, Manuel Alejandro",virtu,Directed,334,,77
+"St-Laurent, Guillaume",argument,Directed,335,,28
+"St-Laurent, Guillaume",dieu,Directed,336,,51
+"St-Laurent, Guillaume",raison,Directed,337,,33
+"St-Laurent, Guillaume",taylor,Directed,338,,58
+"St-Laurent, Guillaume",théologie,Directed,339,,34
+"Vaillancourt, Louis",civilisation,Directed,340,,27
+"Vaillancourt, Louis",effondrement,Directed,341,,27
+"Vaillancourt, Louis",humain,Directed,342,,48
+"Vaillancourt, Louis",nature,Directed,343,,25
+"Vaillancourt, Louis",vie,Directed,344,,51
+"Valdivia Fuenzalida, José Antonio",cause,Directed,345,,80
+"Valdivia Fuenzalida, José Antonio",chose,Directed,346,,91
+"Valdivia Fuenzalida, José Antonio",connaissance,Directed,347,,143
+"Valdivia Fuenzalida, José Antonio",démonstration,Directed,348,,177
+"Valdivia Fuenzalida, José Antonio",question,Directed,349,,61
+"Van Daele, Raphaël",chose,Directed,350,,32
+"Van Daele, Raphaël",guo,Directed,351,,35
+"Van Daele, Raphaël",xiang,Directed,352,,37
+"Van Daele, Raphaël",yong,Directed,353,,31
+"Van Daele, Raphaël",ziran,Directed,354,,45
+"Vecoli, Fabrizio",humilité,Directed,355,,19
+"Vecoli, Fabrizio",moine,Directed,356,,20
+"Vecoli, Fabrizio",monastique,Directed,357,,15
+"Vecoli, Fabrizio",mépris,Directed,358,,23
+"Vecoli, Fabrizio",ἐξουδένωσις,Directed,359,,17
+"Vlad, Marilena",chose,Directed,360,,55
+"Vlad, Marilena",divin,Directed,361,,84
+"Vlad, Marilena",lumière,Directed,362,,270
+"Vlad, Marilena",nom,Directed,363,,182
+"Vlad, Marilena",réalité,Directed,364,,86
+"de Villeneuve, Rachel",lettre,Directed,365,,84
+"de Villeneuve, Rachel",passage,Directed,366,,25
+"de Villeneuve, Rachel",paul,Directed,367,,107
+"de Villeneuve, Rachel",rencontre,Directed,368,,34
+"de Villeneuve, Rachel",visage,Directed,369,,101
+"van Lier, Rick",cas,Directed,370,,37
+"van Lier, Rick",communauté,Directed,371,,118
+"van Lier, Rick",membre,Directed,372,,44
+"van Lier, Rick",nouveau,Directed,373,,59
+"van Lier, Rick",vie,Directed,374,,65

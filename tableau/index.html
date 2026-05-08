@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    #table {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Mon tableau</h1>
+<input type="text" id="search" placeholder="Recherche...">
+
+<div id="table"></div>
+
+<script>
+fetch("data/tableau.csv")
+  .then(response => response.text())
+  .then(csv => {
+
+    const parsed = Papa.parse(csv, {
+      header: true,
+      skipEmptyLines: true
+    });
+
+    const data = parsed.data;
+
+    const columns = Object.keys(data[0]).map(col => ({
+      title: col,
+      field: col,
+      headerFilter: true
+    }));
+
+    const table = new Tabulator("#table", {
+      data: data,
+      columns: columns,
+      layout: "fitDataStretch",
+      pagination: true,
+      paginationSize: 25
+    });
+
+    document.getElementById("search").addEventListener("keyup", function() {
+      const value = this.value;
+
+      table.setFilter(row => {
+        return Object.values(row).some(val =>
+          String(val).toLowerCase().includes(value.toLowerCase())
+        );
+      });
+    });
+
+  });
+</script>
+
+</body>
+</html>
