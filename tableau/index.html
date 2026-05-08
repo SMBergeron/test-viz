@@ -1,66 +1,85 @@
+<!-- Test pour publier le tableau des données en ligne réalisé avec la bibliothèque JavaScript Tabulator, voir la documentation et plus sur https://tabulator.info/ -->
 <!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
-  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
-  <script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
-  <style>
-    body {
-      font-family: sans-serif;
-      padding: 20px;
-    }
-
-    #table {
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-
-<h1>Mon tableau</h1>
-<input type="text" id="search" placeholder="Recherche...">
-
-<div id="table"></div>
-
-<script>
-fetch("data/tableau.csv")
-  .then(response => response.text())
-  .then(csv => {
-
-    const parsed = Papa.parse(csv, {
-      header: true,
-      skipEmptyLines: true
-    });
-
-    const data = parsed.data;
-
-    const columns = Object.keys(data[0]).map(col => ({
-      title: col,
-      field: col,
-      headerFilter: true
-    }));
-
-    const table = new Tabulator("#table", {
-      data: data,
-      columns: columns,
-      layout: "fitDataStretch",
-      pagination: true,
-      paginationSize: 25
-    });
-
-    document.getElementById("search").addEventListener("keyup", function() {
-      const value = this.value;
-
-      table.setFilter(row => {
-        return Object.values(row).some(val =>
-          String(val).toLowerCase().includes(value.toLowerCase())
-        );
-      });
-    });
-
-  });
-</script>
-
-</body>
+  <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <!-- Depuis la documentation de Tabulator : To access Tabulator directly from the UNPKG CDN servers, include the following two lines at the start of your project, instead of the locally hosted versions: -->
+      <link href="https://unpkg.com/tabulator-tables@6.4.0/dist/css/tabulator.min.css" rel="stylesheet">
+      <script type="text/javascript" src="https://unpkg.com/tabulator-tables@6.4.0/dist/js/tabulator.min.js"></script>
+      <script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
+      <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+      <style>
+        body {
+          font-family: sans-serif;
+          padding: 20px;
+        }
+    
+        #table {
+          margin-top: 20px;
+        }
+    </style>
+  </head>
+  <body>
+    <h1> Données </h1>
+    <input type="text" id="search" placeholder="Recherche...">
+    <div id="table"></div>
+    <!-- Import des dpnnées -->
+    <script>
+      
+      fetch("data/tableau.csv")
+        .then(response => response.text())
+      
+        .then(csv => {
+      
+          // Transforme le CSV en objets JavaScript
+          const parsed = Papa.parse(csv, {
+            header: true,
+            skipEmptyLines: true
+          });
+      
+          // Contient toutes les lignes du CSV
+          const data = parsed.data;
+      
+          // Crée automatiquement les colonnes
+          const columns = Object.keys(data[0]).map(col => ({
+            title: col,
+            field: col,
+            headerFilter: true
+          }));
+      
+          // Crée le tableau
+          const table = new Tabulator("#table", {
+      
+            data: data,
+      
+            columns: columns,
+      
+            layout: "fitColumns"
+      
+          });
+      
+          // Recherche globale
+          document.getElementById("search")
+            .addEventListener("keyup", function() {
+      
+              const value = this.value.toLowerCase();
+      
+              table.setFilter(row => {
+      
+                return Object.values(row).some(val =>
+      
+                  String(val)
+                    .toLowerCase()
+                    .includes(value)
+      
+                );
+      
+              });
+      
+            });
+      
+        });
+      
+      </script>
+  </body>
 </html>
